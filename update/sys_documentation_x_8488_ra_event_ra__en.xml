@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Event [ra]" language="en" table="x_8488_ra_event_ra">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Event [ra]</label>
+            <language>en</language>
+            <name>x_8488_ra_event_ra</name>
+            <plural>Event [ra]s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-12 01:59:51</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>345d39b14f202200d3c622d18110c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Event [ra]</sys_name>
+            <sys_package display_value="Red Alert Event" source="x_8488_ra_event">145db1714f202200d3c622d18110c7e9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Red Alert Event">145db1714f202200d3c622d18110c7e9</sys_scope>
+            <sys_update_name>sys_documentation_x_8488_ra_event_ra__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-12 01:59:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
